@@ -9,7 +9,7 @@ use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Extension\Extension;
 use Symfony\Component\DependencyInjection\Loader\YamlFileLoader;
 
-class PageSourceSeetingsExtension extends Extension
+class PageSourceSettingsExtension extends Extension
 {
     /**
      * @param array<mixed, mixed> $configs
