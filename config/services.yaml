@@ -1,0 +1,3 @@
+services:
+    Ifrost\PageSourceComponents\SettingCollection:
+        tags: [page_source_components.setting.collection]
